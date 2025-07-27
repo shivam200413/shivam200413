@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I’m Shivam 👋<br>I’m a passionate developer who thrives on turning ideas into elegant code. My journey is driven by curiosity, creativity, and a love for clean, resilient software.<br><br>🛠 Crafting solutions for real world problems<br><br>🚀 Building projects that make a difference<br><br>💡 Lifelong learner and open-source enthusiast<br><br>🤝 Happy to collaborate and grow with the community<br><br>Let’s connect, code, and create something impactful together!<br><br>
+Hi there, I’m Shivam 👋<br>I’m a passionate developer who thrives on turning ideas into elegant code. My journey is driven by curiosity, creativity, and a love for clean, resilient software.<br>🛠 Crafting solutions for real world problems<br>🚀 Building projects that make a difference<br>💡 Lifelong learner and open-source enthusiast<br>🤝 Happy to collaborate and grow with the community<br>Let’s connect, code, and create something impactful together!<br>
 
 
 ## 🌐 Socials:
